@@ -1,0 +1,2 @@
+运行环境：xlab协议栈
+将Serial文件和common文件放在射频芯片对应的xlab协议栈里即可。
